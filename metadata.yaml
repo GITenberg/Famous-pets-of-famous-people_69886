@@ -1,0 +1,27 @@
+_repo: Famous-pets-of-famous-people_69886
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lewis, Eleanor
+    gutenberg_agent_id: '55476'
+    url: http://www.gutenberg.org/2009/agents/55476
+description: ''
+gutenberg_issued: '2023-01-27'
+identifiers:
+  gutenberg: '69886'
+language: en
+pgterms:marc904: https://archive.org/details/famouspetsoffamo00lewirich/
+pgterms:marc905: 20220908012731lewis
+pgterms:marc906: '1892'
+pgterms:marc907: us
+production_note: Fiona Holmes and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: 'United States: D Lothrop Company,1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Famous pets of famous people
+url: http://www.gutenberg.org/ebooks/69886
