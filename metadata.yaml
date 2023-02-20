@@ -1,11 +1,16 @@
 _repo: Famous-pets-of-famous-people_69886
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69886-h/images/cover.jpg
 creator:
   author:
     agent_name: Lewis, Eleanor
     gutenberg_agent_id: '55476'
     url: http://www.gutenberg.org/2009/agents/55476
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69886#Famous-pets-of-famous-people
 gutenberg_issued: '2023-01-27'
 identifiers:
   gutenberg: '69886'
